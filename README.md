@@ -3,6 +3,8 @@
 ## Overview
 This Power BI dashboard was built for **Popular Flour Mill**, a food manufacturing and distribution business selling **Idly–Dosa Batter, Chapathi Packets, and Porotta Packets**.  
 The objective was to analyze **product performance, route-wise sales, buyer behavior, and profit trends** to support day-to-day and monthly business decisions.
+**Live demo**
+![Screenshot](/powerbi.png)
 
 ---
 
